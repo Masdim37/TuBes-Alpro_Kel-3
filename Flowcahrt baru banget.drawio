@@ -1,0 +1,303 @@
+<mxfile host="app.diagrams.net" modified="2023-12-07T04:27:09.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="VyNWTp8NOZjsHFE6_NEX" version="22.1.7" type="github">
+  <diagram name="Page-1" id="AOKnSqPlgx3YJRnHSs90">
+    <mxGraphModel dx="993" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="769" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-2" value="Menu Utama" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="759" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-3" value="Pilihan == 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="764" y="150" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-4" value="Pilihan == 1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="764" y="280" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-5" value="&lt;div&gt;Menu Olahan&lt;/div&gt;&lt;div&gt;&amp;nbsp;Makanan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="929" y="160" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-6" value="&lt;div&gt;Pilihan == 1&lt;/div&gt;&lt;div&gt;(Beef)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="939" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-7" value="Pilihan == 2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="939" y="369" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-8" value="&lt;div&gt;Pilihan == 3&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="939" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-9" target="ZT2H8TpERkllQSkKhFu7-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-9" value="&lt;div&gt;Pilihan == 4&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="939" y="640" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-10" value="Pilihan == 5" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="939" y="760" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-12" target="ZT2H8TpERkllQSkKhFu7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-12" value="&lt;div&gt;Pilihan == 1&lt;/div&gt;&lt;div&gt;(Sirloin Lokal)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2088" y="250" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-13" target="ZT2H8TpERkllQSkKhFu7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-13" value="&lt;div&gt;Pilihan == 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Sirloin Aussie)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2088" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-14" target="ZT2H8TpERkllQSkKhFu7-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2215" y="500" as="targetPoint" />
+            <mxPoint x="2143" y="560" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-14" value="&lt;div&gt;Pilihan == 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Rib Eye Aussie)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2088" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-15" value="&lt;div&gt;Pilihan == 4&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Secondary cut wagyu)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2088" y="639" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-16" target="ZT2H8TpERkllQSkKhFu7-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1908" y="600" as="targetPoint" />
+            <mxPoint x="1847" y="419.5112765957447" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-16" value="&lt;div&gt;Pilihan == 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Chicken&lt;/div&gt;&lt;div&gt;Burger)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="369" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-17" target="ZT2H8TpERkllQSkKhFu7-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-17" target="ZT2H8TpERkllQSkKhFu7-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-17" value="&lt;div&gt;Pilihan == 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Chicken&lt;/div&gt;&lt;div&gt;Steak)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-18" target="ZT2H8TpERkllQSkKhFu7-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-18" target="ZT2H8TpERkllQSkKhFu7-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-18" value="&lt;div&gt;Pilihan == 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Chicken&lt;/div&gt;&lt;div&gt;Schnitzel)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="640" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-26" target="ZT2H8TpERkllQSkKhFu7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-26" value="&lt;div&gt;Pilihan == 1&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Fish and&lt;/div&gt;&lt;div&gt;Chips)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1427" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-27" target="ZT2H8TpERkllQSkKhFu7-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-27" target="ZT2H8TpERkllQSkKhFu7-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-27" value="&lt;div&gt;Pilihan == 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Marlin Steak)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1427" y="639" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-28" value="&lt;div&gt;Pilihan == 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Salmon Steak)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1427" y="770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-29" value="&lt;div&gt;Pilihan == 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Sirloin Aussie)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1084" y="640" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-30" value="&lt;div&gt;Pilihan == 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Rib Eye Aussie)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="789" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-31" value="&lt;div&gt;Pilihan == 4&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Secondary cut wagyu)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1074" y="929" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-6" target="ZT2H8TpERkllQSkKhFu7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-7" target="ZT2H8TpERkllQSkKhFu7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-8" target="ZT2H8TpERkllQSkKhFu7-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-36" target="ZT2H8TpERkllQSkKhFu7-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-36" value="&lt;div&gt;Input pilihan&amp;nbsp;&lt;/div&gt;&lt;div&gt;menu beef&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="2255" y="469" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-37" value="&lt;div&gt;Input jumlah&amp;nbsp;&lt;/div&gt;&lt;div&gt;makanan yang&amp;nbsp;&lt;/div&gt;&lt;div&gt;ingin dipesan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="2245" y="579" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2235" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-44" source="ZT2H8TpERkllQSkKhFu7-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-43" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-44" target="ZT2H8TpERkllQSkKhFu7-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-47" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2235" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-47" source="ZT2H8TpERkllQSkKhFu7-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-46" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.137;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-47" target="ZT2H8TpERkllQSkKhFu7-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="-10" as="sourcePoint" />
+            <mxPoint x="160" y="-30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="-10" />
+              <mxPoint y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2215" y="500" as="sourcePoint" />
+            <mxPoint x="2269" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-53" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2235" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-53" source="ZT2H8TpERkllQSkKhFu7-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.061;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-53" target="ZT2H8TpERkllQSkKhFu7-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="60" y="-20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2415" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-56" source="ZT2H8TpERkllQSkKhFu7-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-56" target="ZT2H8TpERkllQSkKhFu7-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="-410" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-58" target="ZT2H8TpERkllQSkKhFu7-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-58" value="&lt;div&gt;Input pilihan&amp;nbsp;&lt;/div&gt;&lt;div&gt;menu Chicken&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1927" y="591" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-59" value="&lt;div&gt;Input jumlah&amp;nbsp;&lt;/div&gt;&lt;div&gt;makanan yang&amp;nbsp;&lt;/div&gt;&lt;div&gt;ingin dipesan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1924.75" y="700" width="145.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1908" y="630" as="targetPoint" />
+            <mxPoint x="1847" y="819.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-60" value="&lt;div&gt;Pilihan == 4&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Chicken Gordon Blue)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1757" y="770" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1908" y="600" as="sourcePoint" />
+            <mxPoint x="1953.3658536585365" y="600.219512195122" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-71" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.082;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ZT2H8TpERkllQSkKhFu7-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1908" y="630" as="sourcePoint" />
+            <mxPoint x="1958" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-73" target="ZT2H8TpERkllQSkKhFu7-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-73" value="&lt;div&gt;Input pilihan&amp;nbsp;&lt;/div&gt;&lt;div&gt;menu Fish&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1594" y="659" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-74" value="&lt;div&gt;Input jumlah&amp;nbsp;&lt;/div&gt;&lt;div&gt;makanan yang&amp;nbsp;&lt;/div&gt;&lt;div&gt;ingin dipesan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1592.75" y="784" width="145.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-82" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1587" y="670" width="30" height="0.22" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-82" source="ZT2H8TpERkllQSkKhFu7-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="10.022222222226148" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="10.022222222226148" as="sourcePoint" />
+            <mxPoint x="30" y="10.242222222226147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-85" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1524" y="700" width="63" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="63.00000000000001" as="targetPoint" />
+            <mxPoint y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.06;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ZT2H8TpERkllQSkKhFu7-85" target="ZT2H8TpERkllQSkKhFu7-73">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63.00000000000001" as="sourcePoint" />
+            <mxPoint x="179.66666666666669" y="-37.49562784190275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZT2H8TpERkllQSkKhFu7-87" target="ZT2H8TpERkllQSkKhFu7-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-87" value="&lt;div&gt;Input pilihan&amp;nbsp;&lt;/div&gt;&lt;div&gt;menu Fish&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1261" y="659" width="143" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-88" value="&lt;div&gt;Input jumlah&amp;nbsp;&lt;/div&gt;&lt;div&gt;makanan yang&amp;nbsp;&lt;/div&gt;&lt;div&gt;ingin dipesan&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="1259.75" y="784" width="145.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-89" value="&lt;div&gt;Pilihan == 2&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Sirloin Aussie)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1083" y="1052" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-90" value="&lt;div&gt;Pilihan == 3&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Rib Eye Aussie)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="1202" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-91" value="&lt;div&gt;Pilihan == 4&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Secondary cut wagyu)&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="1342" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-95" value="cout" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="754" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZT2H8TpERkllQSkKhFu7-96" value="udh mesen?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="774" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
